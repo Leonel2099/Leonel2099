@@ -51,7 +51,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/leo/leo/blob/output/snake.svg" alt="Snake animation" />
-
-###
