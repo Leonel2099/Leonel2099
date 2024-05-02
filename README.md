@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">In this moment im studying a careear about development in videogames and also a course of full-stack</h2>
+<h2 align="left">At this moment I am studying a technical degree in video game development and also a full-stack course.</h2>
 
 ###
 
